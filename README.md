@@ -2,6 +2,8 @@
 
 A retro MP3 player in Python with a Winamp-inspired fixed-size GUI, playlist, seek bar, volume control, drag-and-drop support, and file-open dialog. The project uses `pygame-ce` for the custom desktop UI and `mutagen` for metadata.
 
+![Screenshot](Screenshot%202026-04-09%20at%2012.59.57%20PM.png)
+
 ## Install
 
 ```bash
